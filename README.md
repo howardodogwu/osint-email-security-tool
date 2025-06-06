@@ -15,3 +15,7 @@ This Python-based tool leverages the HaveIBeenPwned API to:
    ```bash
    git clone https://github.com/howardodogwu/osint-email-security-tool.git
    cd osint-email-security-tool
+   ```
+# Setup
+
+1. Copy `.env.example` to `.env`:
